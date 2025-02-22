@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Earbuds",
+    "price": 100,
+    "image": "/product/products/earbuds-prod-1.webp",
+    "brand": "Earbuds",
+    "rating": 4.5,
+    "description": "Experience crystal-clear sound with these wireless earbuds. Perfect for music lovers on the go, with noise cancellation and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Headphone 1",
+    "price": 200,
+    "image": "/product/products/headphone-prod-1.webp",
+    "brand": "Headphones",
+    "rating": 3.8,
+    "description": "Immerse yourself in high-quality audio with these over-ear headphones. Comfortable design and superior sound for all-day listening."
+  },
+  {
+    "id": 3,
+    "name": "Speakers 1",
+    "price": 150,
+    "image": "/product/products/speaker-prod-1.webp",
+    "brand": "Bluetooth Speakers",
+    "rating": 4.2,
+    "description": "Portable Bluetooth speakers with deep bass and clear sound. Perfect for parties, outdoor adventures, or relaxing at home."
+  },
+  {
+    "id": 4,
+    "name": "Watch 1",
+    "price": 300,
+    "image": "/product/products/watch-prod-1.webp",
+    "brand": "Smart Watches",
+    "rating": 3.7,
+    "description": "Stay connected and track your fitness with this sleek smartwatch. Features heart rate monitoring, GPS, and long battery life."
+  },
+  {
+    "id": 5,
+    "name": "Watch 2",
+    "price": 700,
+    "image": "/product/products/watch-prod-2.webp",
+    "brand": "Smart Watches",
+    "rating": 4.4,
+    "description": "Stay connected and track your fitness with this sleek smartwatch. Features heart rate monitoring, GPS, and long battery life."
+  },
+  {
+    "id": 6,
+    "name": "Watch 3",
+    "price": 350,
+    "image": "/product/products/watch-prod-3.webp",
+    "brand": "Smart Watches",
+    "rating": 4.7,
+    "description": "Stay connected and track your fitness with this sleek smartwatch. Features heart rate monitoring, GPS, and long battery life."
+  },
+  {
+    "id": 7,
+    "name": "Speakers 2",
+    "price": 150,
+    "image": "/product/products/speaker-prod-2.webp",
+    "brand": "Bluetooth Speakers",
+    "rating": 1.2,
+    "description": "Portable Bluetooth speakers with deep bass and clear sound. Perfect for parties, outdoor adventures, or relaxing at home."
+  },
+  {
+    "id": 8,
+    "name": "Speakers 3",
+    "price": 150,
+    "image": "/product/products/speaker-prod-3.webp",
+    "brand": "Bluetooth Speakers",
+    "rating": 3.2,
+    "description": "Portable Bluetooth speakers with deep bass and clear sound. Perfect for parties, outdoor adventures, or relaxing at home."
+  },
+  {
+    "id": 9,
+    "name": "Headphone 2",
+    "price": 200,
+    "image": "/product/products/headphone-prod-2.webp",
+    "brand": "Headphones",
+    "rating": 4.8,
+    "description": "Immerse yourself in high-quality audio with these over-ear headphones. Comfortable design and superior sound for all-day listening."
+  },
+  {
+    "id": 10,
+    "name": "Headphone 3",
+    "price": 200,
+    "image": "/product/products/headphone-prod-3.webp",
+    "brand": "Headphones",
+    "rating": 2.8,
+    "description": "Immerse yourself in high-quality audio with these over-ear headphones. Comfortable design and superior sound for all-day listening."
+  }
+]
