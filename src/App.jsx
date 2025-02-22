@@ -4,11 +4,11 @@ import Home from "./pages/Home";
 import Listing from "./pages/Listing";
 import ProductDetail from "./pages/ProductDetail";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import AboutUs from "./pages/Aboutus";
 import { ProductProvider } from "./context/ProductContext";
 import Footer from "./components/Footer";
 import { Link } from "react-router-dom";
 import { Menu, X } from "lucide-react";
+import About from "./pages/About";
 function App() {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -34,7 +34,7 @@ function App() {
           <Route path="/listing/:id" element={<Listing />} />
           <Route path="/product/:id" element={<ProductDetail />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-          <Route path="/about-us" element={<AboutUs />} />
+          <Route path="/about-us" element={<About />} />
         </Routes>
       </Router>
       <Footer />
